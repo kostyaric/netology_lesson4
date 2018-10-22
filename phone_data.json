@@ -1,0 +1,34 @@
+[
+	{
+		"firstName": "Иван",
+		"lastName": "Иванов",
+		"address":
+			{
+				"city": "Москва",
+				"street": "Алиева",
+				"building": "2"
+			},
+		"phoneNumbers":
+			[
+				"812 123-1234",
+				"495 123-8432"
+			],
+		"email": "ii@phonebook.org"
+	},
+	{
+		"firstName": "Петр",
+		"lastName": "Петров",
+		"address":
+			{
+				"city": "Челябинск",
+				"street": "Ленина",
+				"building": "3"
+			},
+		"phoneNumbers":
+			[
+				"912 123-1234",
+				"351 123-9856"
+			],
+		"email": "pp@phonebook.org"
+	}
+]
